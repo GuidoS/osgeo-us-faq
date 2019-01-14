@@ -4,139 +4,110 @@
 ---
 
 # What is this presentation?
-
----
-
-- FAQ
-- Overview
-  - Introduce
-  - Contextulize
-  - Explain
+- Introduction
+- Context
+- What we do
 
 ---
 
 # Who are you?
+- **Guido Stein**
+  - Spatial Data Alchemist  
+  (Applied Geographics)
+  - President  
+  (OSGeo US Chapter)
+  - Knitter
 
----
-
-# Guido Stein
-
-- Spatial Data Alchemist  
-(Applied Geographics)
-- President  
-(OSGeo US Chapter)
-- Knitter
 ---
 
 # How do you pronounce Guido?
-
----
-
-# Sounds like
-
-- Burrito
-- Ghee Dough
-- /ɡēdō/
+- **Sounds like**
+  - Burrito
+  - Ghee Dough
+  - /ɡēdō/
 
 ---
 
 # What have you done?
-
----
-
 - Clark Univeristy
-- USDA
+- USDA FSA
 - Consulting (Environmental, Planning, GIS)
-- AML, Avenue, VBA, Python, Javascript
 
 ---
 
+# What else have you done?
+- Ignite Spatial Boston Events
+- Avid Geo Meetup
 - FOSS4G Boston 2017
 
 ---
 
-# Why Open Source
+# Why Free and Open Source Software (FOSS)?
+- **Standing on the shoulders of giants**
+  - Libraries
+  - CLI tools
+  - GUI applications
 
 ---
 
-# Giant shoulders to stand on
-- Libraries
-- CLI tools
-- GUI applications
-
----
-
-# All the buzzwords are here
+# Why is FOSS important?
 - Big Data
 - Data Science
 - Mobile
 
 ---
 
-# Community
+# Who makes up the FOSS Community?
 - developers
 - users
 - industry
 
 ---
-![Buzzwords](/img/ml_pictogram.png)
-[source: mantralogix.com](https://mantralogix.com/news/16-tech-buzzwords-you-need-to-know/)
 
-- big data (IoT, sensors, phone, web, drones)
-- mobile
-- data science
-- serverless
+# What tech companies support FOSS?
+- Google
+- Amazon
+- Microsoft
 
-## 003 Who is pushing the tech forward?
+---
 
-- google
-- amazon
-- microsoft
-- ibm
+# Is spatial special in FOSS?
+- First class citizen in most db and nosql solutions
+- There is no GIS in Data
 
-## 004 What tools are being used?
+---
 
-- Google BigQuery (MySQL)
-- Google DataProc (Hadoop & Spark)
-- AWS Athena (Presto)
-- AWS EMR (Hadoop)
+# What is the Open Source Geospatial Foundation (OSGeo)
+- a not-for-profit organization whose mission is to foster global adoption of open geospatial technology
+  - projects
+  - local chapters
 
-## 005 Why are these tools Open Source?
+---
 
-## 006 Can we trust the community to build software?
+# What is the OSGeo.US Local Chapter
+- A resource for the US FOSS Geospatial Community
+  - we make grants
+  - we have a [Discussion list](https://lists.osgeo.org/mailman/listinfo/us)
+  - we are a run within a 401(c)3 non-profit called Tehcnocation
 
-## 007 Where can I get spatial data?
+---
 
-## 008 What can I do with spatial data?
+# What has OSGeo.US done so far
+- FOSS4G-NA Comunity Day
+- FOSS4Gx Knoxville
+- FOSS4G Dar es Salaam
+- FedGeoDay 2019
+- FOSS4G-NA San Diego 2019
 
-## 009 Who is working with Spatial data?
+---
 
-## 010 What is Open Source?
+# How do I get involved
+- We have a [Discussion list https://lists.osgeo.org/mailman/listinfo/us](https://lists.osgeo.org/mailman/listinfo/us)
 
-## 011 Is Open Source Free or Libre Software?
+---
 
-## 012 Can you trust the community?
+# Shameless Plug
+- FedGeoDay 2019
+- **fedgeo.us**
 
-## 013 Who puts their trust in Open Source?
-
-## 014 Can you get
-
-## 015 Who are you?
-
-## 016 How did you get involved?
-
-## 017 What is OSGeo?
-
-## 018 What is OSGeo.US?
-
-## 019 What is Technocation?
-
-## 020 Board
-
-## 000 Non-Profit
-
-## 000 Bank Account
-
-## 000 Who can participate?
-
-## 000 How can I get help for my community event, training, workshop, idea
+---
