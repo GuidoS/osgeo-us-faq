@@ -1,11 +1,84 @@
 # What is OSGeo.US
+![osgeo us local chapter](https://osgeo.us/img/osgeo-us-logo.svg)
 
-## 001 Just the FAQ and nothing but the FAQ
+---
 
-![Tux, the Linux mascot](/img/osgeo-us-logo.svg)
+# What is this presentation?
 
-## 002 Where is tech going in 2019?
+---
 
+- FAQ
+- Overview
+  - Introduce
+  - Contextulize
+  - Explain
+
+---
+
+# Who are you?
+
+---
+
+# Guido Stein
+
+- Spatial Data Alchemist  
+(Applied Geographics)
+- President  
+(OSGeo US Chapter)
+- Knitter
+---
+
+# How do you pronounce Guido?
+
+---
+
+# Sounds like
+
+- Burrito
+- Ghee Dough
+- /ɡēdō/
+
+---
+
+# What have you done?
+
+---
+
+- Clark Univeristy
+- USDA
+- Consulting (Environmental, Planning, GIS)
+- AML, Avenue, VBA, Python, Javascript
+
+---
+
+- FOSS4G Boston 2017
+
+---
+
+# Why Open Source
+
+---
+
+# Giant shoulders to stand on
+- Libraries
+- CLI tools
+- GUI applications
+
+---
+
+# All the buzzwords are here
+- Big Data
+- Data Science
+- Mobile
+
+---
+
+# Community
+- developers
+- users
+- industry
+
+---
 ![Buzzwords](/img/ml_pictogram.png)
 [source: mantralogix.com](https://mantralogix.com/news/16-tech-buzzwords-you-need-to-know/)
 
